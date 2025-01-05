@@ -1,0 +1,103 @@
+﻿  MySol-After.cpp
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsString.h(41,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'MySol-After.cpp')
+  
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsString.h(46,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'MySol-After.cpp')
+  
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsString.h(58,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'MySol-After.cpp')
+  
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'MySol-After.cpp')
+  
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsString.h(326,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'MySol-After.cpp')
+  
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsString.h(374,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'MySol-After.cpp')
+  
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsBankClient.h(191,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'MySol-After.cpp')
+  F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsBankClient.h(23,12):
+  see declaration of 'clsBankClient::stTransferLogRecord'
+  
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsBankClient.h(185,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MySol-After.cpp')
+  
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsBankClient.h(414,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MySol-After.cpp')
+  
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsBankClient.h(423,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MySol-After.cpp')
+  
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'MySol-After.cpp')
+  
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsUser.h(138,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'MySol-After.cpp')
+  F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsUser.h(18,12):
+  see declaration of 'clsUser::stLoginRegisterRecord'
+  
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsAddNewClientScreen.h(21,11): warning C4129: 'E': unrecognized character escape sequence
+  (compiling source file 'MySol-After.cpp')
+  
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsAddNewClientScreen.h(23,11): warning C4129: 'E': unrecognized character escape sequence
+  (compiling source file 'MySol-After.cpp')
+  
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsAddNewClientScreen.h(25,11): warning C4129: 'E': unrecognized character escape sequence
+  (compiling source file 'MySol-After.cpp')
+  
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsAddNewClientScreen.h(27,11): warning C4129: 'E': unrecognized character escape sequence
+  (compiling source file 'MySol-After.cpp')
+  
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsAddNewClientScreen.h(29,11): warning C4129: 'E': unrecognized character escape sequence
+  (compiling source file 'MySol-After.cpp')
+  
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsAddNewClientScreen.h(31,11): warning C4129: 'E': unrecognized character escape sequence
+  (compiling source file 'MySol-After.cpp')
+  
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsAddNewClientScreen.h(32,66): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsAddNewClientScreen.h(32,66): warning C4244:         with
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsAddNewClientScreen.h(32,66): warning C4244:         [
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsAddNewClientScreen.h(32,66): warning C4244:             T=double
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsAddNewClientScreen.h(32,66): warning C4244:         ]
+  (compiling source file 'MySol-After.cpp')
+  
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsUpdateClientScreen.h(21,11): warning C4129: 'E': unrecognized character escape sequence
+  (compiling source file 'MySol-After.cpp')
+  
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsUpdateClientScreen.h(23,11): warning C4129: 'E': unrecognized character escape sequence
+  (compiling source file 'MySol-After.cpp')
+  
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsUpdateClientScreen.h(25,11): warning C4129: 'E': unrecognized character escape sequence
+  (compiling source file 'MySol-After.cpp')
+  
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsUpdateClientScreen.h(27,11): warning C4129: 'E': unrecognized character escape sequence
+  (compiling source file 'MySol-After.cpp')
+  
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsUpdateClientScreen.h(29,11): warning C4129: 'E': unrecognized character escape sequence
+  (compiling source file 'MySol-After.cpp')
+  
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsUpdateClientScreen.h(31,11): warning C4129: 'E': unrecognized character escape sequence
+  (compiling source file 'MySol-After.cpp')
+  
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsUpdateClientScreen.h(32,66): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsUpdateClientScreen.h(32,66): warning C4244:         with
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsUpdateClientScreen.h(32,66): warning C4244:         [
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsUpdateClientScreen.h(32,66): warning C4244:             T=double
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsUpdateClientScreen.h(32,66): warning C4244:         ]
+  (compiling source file 'MySol-After.cpp')
+  
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsTotalBalancesScreen.h(50,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'MySol-After.cpp')
+  
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MySol-After.cpp')
+  
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsCurrencyCalculatorScreen.h(45,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MySol-After.cpp')
+  
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsBankClient.h(371): warning C4715: 'clsBankClient::Save': not all control paths return a value
+F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\clsUser.h(298): warning C4715: 'clsUser::Save': not all control paths return a value
+  MySol-After.vcxproj -> F:\Programming\C++\Projects\11-Bank-Currencies-OOP\MySol\MySol-After\x64\Debug\MySol-After.exe

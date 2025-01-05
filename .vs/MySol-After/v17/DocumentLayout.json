@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Programming\\C\u002B\u002B\\11-Bank-Currencies-OOP\\MySol\\MySol-After\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A298B62-BB32-469C-BEB3-C5BBADD45776}|MySol-After.vcxproj|F:\\Programming\\C\u002B\u002B\\11-Bank-Currencies-OOP\\MySol\\MySol-After\\clsCurrencyCalculatorScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A298B62-BB32-469C-BEB3-C5BBADD45776}|MySol-After.vcxproj|solutionrelative:clsCurrencyCalculatorScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A298B62-BB32-469C-BEB3-C5BBADD45776}|MySol-After.vcxproj|F:\\Programming\\C\u002B\u002B\\11-Bank-Currencies-OOP\\MySol\\MySol-After\\clsMainMenueScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A298B62-BB32-469C-BEB3-C5BBADD45776}|MySol-After.vcxproj|solutionrelative:clsMainMenueScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A298B62-BB32-469C-BEB3-C5BBADD45776}|MySol-After.vcxproj|F:\\Programming\\C\u002B\u002B\\11-Bank-Currencies-OOP\\MySol\\MySol-After\\Global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A298B62-BB32-469C-BEB3-C5BBADD45776}|MySol-After.vcxproj|solutionrelative:Global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A298B62-BB32-469C-BEB3-C5BBADD45776}|MySol-After.vcxproj|F:\\Programming\\C\u002B\u002B\\11-Bank-Currencies-OOP\\MySol\\MySol-After\\MySol-After.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A298B62-BB32-469C-BEB3-C5BBADD45776}|MySol-After.vcxproj|solutionrelative:MySol-After.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsCurrencyCalculatorScreen.h",
+              "DocumentMoniker": "F:\\Programming\\C\u002B\u002B\\11-Bank-Currencies-OOP\\MySol\\MySol-After\\clsCurrencyCalculatorScreen.h",
+              "RelativeDocumentMoniker": "clsCurrencyCalculatorScreen.h",
+              "ToolTip": "F:\\Programming\\C\u002B\u002B\\11-Bank-Currencies-OOP\\MySol\\MySol-After\\clsCurrencyCalculatorScreen.h",
+              "RelativeToolTip": "clsCurrencyCalculatorScreen.h",
+              "ViewState": "AQIAACwAAAAAAAAAAAAYwDAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T12:45:55.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsMainMenueScreen.h",
+              "DocumentMoniker": "F:\\Programming\\C\u002B\u002B\\11-Bank-Currencies-OOP\\MySol\\MySol-After\\clsMainMenueScreen.h",
+              "RelativeDocumentMoniker": "clsMainMenueScreen.h",
+              "ToolTip": "F:\\Programming\\C\u002B\u002B\\11-Bank-Currencies-OOP\\MySol\\MySol-After\\clsMainMenueScreen.h",
+              "RelativeToolTip": "clsMainMenueScreen.h",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAYwFIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T12:45:55.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Global.h",
+              "DocumentMoniker": "F:\\Programming\\C\u002B\u002B\\11-Bank-Currencies-OOP\\MySol\\MySol-After\\Global.h",
+              "RelativeDocumentMoniker": "Global.h",
+              "ToolTip": "F:\\Programming\\C\u002B\u002B\\11-Bank-Currencies-OOP\\MySol\\MySol-After\\Global.h",
+              "RelativeToolTip": "Global.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T12:45:55.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MySol-After.cpp",
+              "DocumentMoniker": "F:\\Programming\\C\u002B\u002B\\11-Bank-Currencies-OOP\\MySol\\MySol-After\\MySol-After.cpp",
+              "RelativeDocumentMoniker": "MySol-After.cpp",
+              "ToolTip": "F:\\Programming\\C\u002B\u002B\\11-Bank-Currencies-OOP\\MySol\\MySol-After\\MySol-After.cpp",
+              "RelativeToolTip": "MySol-After.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T12:45:55.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1883,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
