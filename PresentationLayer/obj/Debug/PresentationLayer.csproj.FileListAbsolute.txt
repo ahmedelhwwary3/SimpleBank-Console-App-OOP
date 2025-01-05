@@ -1,0 +1,141 @@
+F:\ProjectAfterUpdate\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+F:\ProjectAfterUpdate\PresentationLayer\obj\Debug\PresentationLayer.frmMain.resources
+F:\ProjectAfterUpdate\PresentationLayer\obj\Debug\PresentationLayer.People.ctrlPersonCard.resources
+F:\ProjectAfterUpdate\PresentationLayer\obj\Debug\PresentationLayer.People.frmAddEditPerson.resources
+F:\ProjectAfterUpdate\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+F:\ProjectAfterUpdate\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+F:\ProjectAfterUpdate\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+F:\ProjectAfterUpdate\PresentationLayer\obj\Debug\PresentationLayer.People.frmPeopleManagement.resources
+F:\ProjectAfterUpdate\PresentationLayer\obj\Debug\PresentationLayer.People.frmFindPerson.resources
+F:\ProjectAfterUpdate\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+F:\ProjectAfterUpdate\PresentationLayer\bin\Debug\PresentationLayer.exe
+F:\ProjectAfterUpdate\PresentationLayer\bin\Debug\PresentationLayer.pdb
+F:\ProjectAfterUpdate\PresentationLayer\bin\Debug\BusinessLayer.dll
+F:\ProjectAfterUpdate\PresentationLayer\bin\Debug\DataAccessLayer.dll
+F:\ProjectAfterUpdate\PresentationLayer\bin\Debug\BusinessLayer.pdb
+F:\ProjectAfterUpdate\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+F:\ProjectAfterUpdate\PresentationLayer\obj\Debug\Presenta.9C561136.Up2Date
+F:\ProjectAfterUpdate\PresentationLayer\obj\Debug\PresentationLayer.exe
+F:\ProjectAfterUpdate\PresentationLayer\obj\Debug\PresentationLayer.pdb
+F:\ProjectAfterUpdate\PresentationLayer\obj\Debug\PresentationLayer.People.ctrlPersonCardWithFilter.resources
+F:\ProjectAfterUpdate\PresentationLayer\obj\Debug\PresentationLayer.People.frmShowPersonCard.resources
+F:\ProjectAfterUpdate\PresentationLayer\obj\Debug\PresentationLayer.Users.frmAddEditUser.resources
+F:\ProjectAfterUpdate\PresentationLayer\obj\Debug\PresentationLayer.Users.ctrlUserCard.resources
+F:\ProjectAfterUpdate\PresentationLayer\obj\Debug\PresentationLayer.Users.frmUserInfo.resources
+F:\ProjectAfterUpdate\PresentationLayer\obj\Debug\PresentationLayer.Users.frmChangePassword.resources
+F:\ProjectAfterUpdate\PresentationLayer\obj\Debug\PresentationLayer.Login.frmLogin.resources
+F:\ProjectAfterUpdate\PresentationLayer\obj\Debug\PresentationLayer.Users.frmUsersManagement.resources
+F:\My Solution\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+F:\My Solution\PresentationLayer\bin\Debug\PresentationLayer.exe
+F:\My Solution\PresentationLayer\bin\Debug\PresentationLayer.pdb
+F:\My Solution\PresentationLayer\bin\Debug\BusinessLayer.dll
+F:\My Solution\PresentationLayer\bin\Debug\DataAccessLayer.dll
+F:\My Solution\PresentationLayer\bin\Debug\BusinessLayer.pdb
+F:\My Solution\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.frmMain.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Login.frmLogin.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.People.ctrlPersonCard.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.People.ctrlPersonCardWithFilter.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.People.frmAddEditPerson.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.People.frmFindPerson.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.People.frmPeopleManagement.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.People.frmShowPersonCard.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Users.ctrlUserCard.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Users.frmAddEditUser.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Users.frmChangePassword.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Users.frmUserInfo.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Users.frmUsersManagement.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+F:\My Solution\PresentationLayer\obj\Debug\Presenta.9C561136.Up2Date
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.exe
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.pdb
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Applications.ApplicationTypes.frmListApplicationTypes.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Applications.ApplicationTypes.frmEditApplicationType.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Tests.TestTypes.frmEditTestType.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Tests.TestTypes.frmListTestTypes.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Applications.LocalDrivingLicenseApplications.frmAddEditLocalDrivingLicenseApplication.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Applications.LocalDrivingLicenseApplications.Controls.ctrlApplicationBasicInfo.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Applications.LocalDrivingLicenseApplications.Controls.ctrlDrivingLicenesApplicationInfo.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Applications.LocalDrivingLicenseApplications.Controls.frmShowLocalDrivingLicenseApplicationInfo.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Applications.LocalDrivingLicenseApplications.frmListLocalDrivingLicenseApplications.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Tests.Controls.ctrlScheduleTest.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Tests.frmScheduleTest.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Tests.frmListTestAppointments.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Tests.Controls.ctrlScheduledTest.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Tests.frmTakeScheduledTest.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Licenses.LocalLicenses.frmIssueDrivingLicenesForFirstTime.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Licenses.LocalLicenses.ctrlDriverLicenseInfo.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Licenses.LocalLicenses.Controls.ctrlDriverLicenseInfoWithFilter.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Licenses.LocalLicenses.frmShowLicenseInfo.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Applications.RenewLocalLicense.frmRenewLocalLicense.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Applications.ReplacementForDamagedOrLostLicense.frmReplacementForDamagedOrLostLicenses.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Drivers.frmListDrivers.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Licenses.Controls.ctrlDriverLicenses.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Licenses.frmShowLicenseHistory.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Licenses.DetainLicense.frmDetainLicense.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Applications.ReleaseDetainedLicense.frmReleaseDetainedLicense.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Applications.ReleaseDetainedLicense.frmListDetainedLicenses.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Applications.InternationalLicenseApplication.frmIssueInternationalLicense.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Licenses.InternationalLicenses.ctrlInternationalLicenseInfo.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Licenses.InternationalLicenses.frmShowInternationaLicenseInfo.resources
+F:\My Solution\PresentationLayer\obj\Debug\PresentationLayer.Licenses.InternationalLicenses.frmListInternationalLicenses.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\bin\Debug\PresentationLayer.exe
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\bin\Debug\PresentationLayer.pdb
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\bin\Debug\BusinessLayer.dll
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\bin\Debug\DataAccessLayer.dll
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\bin\Debug\BusinessLayer.pdb
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Applications.ApplicationTypes.frmEditApplicationType.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Applications.ApplicationTypes.frmListApplicationTypes.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Applications.InternationalLicenseApplication.frmIssueInternationalLicense.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Applications.LocalDrivingLicenseApplications.Controls.ctrlApplicationBasicInfo.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Applications.LocalDrivingLicenseApplications.Controls.ctrlDrivingLicenesApplicationInfo.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Applications.LocalDrivingLicenseApplications.frmListLocalDrivingLicenseApplications.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Applications.LocalDrivingLicenseApplications.Controls.frmShowLocalDrivingLicenseApplicationInfo.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Applications.LocalDrivingLicenseApplications.frmAddEditLocalDrivingLicenseApplication.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Applications.ReleaseDetainedLicense.frmListDetainedLicenses.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Applications.ReleaseDetainedLicense.frmReleaseDetainedLicense.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Applications.RenewLocalLicense.frmRenewLocalLicense.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Applications.ReplacementForDamagedOrLostLicense.frmReplacementForDamagedOrLostLicenses.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Drivers.frmListDrivers.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.frmMain.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Licenses.Controls.ctrlDriverLicenses.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Licenses.DetainLicense.frmDetainLicense.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Licenses.frmShowLicenseHistory.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Licenses.InternationalLicenses.ctrlInternationalLicenseInfo.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Licenses.InternationalLicenses.frmListInternationalLicenses.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Licenses.InternationalLicenses.frmShowInternationaLicenseInfo.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Licenses.LocalLicenses.ctrlDriverLicenseInfo.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Licenses.LocalLicenses.Controls.ctrlDriverLicenseInfoWithFilter.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Licenses.LocalLicenses.frmIssueDrivingLicenesForFirstTime.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Licenses.LocalLicenses.frmShowLicenseInfo.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Login.frmLogin.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.People.ctrlPersonCard.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.People.ctrlPersonCardWithFilter.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.People.frmAddEditPerson.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.People.frmFindPerson.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.People.frmPeopleManagement.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.People.frmShowPersonCard.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Tests.Controls.ctrlScheduledTest.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Tests.Controls.ctrlScheduleTest.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Tests.frmListTestAppointments.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Tests.frmScheduleTest.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Tests.frmTakeScheduledTest.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Tests.TestTypes.frmEditTestType.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Tests.TestTypes.frmListTestTypes.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Users.ctrlUserCard.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Users.frmAddEditUser.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Users.frmChangePassword.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Users.frmUserInfo.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.Users.frmUsersManagement.resources
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\Presenta.9C561136.Up2Date
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.exe
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\PresentationLayer\obj\Debug\PresentationLayer.pdb

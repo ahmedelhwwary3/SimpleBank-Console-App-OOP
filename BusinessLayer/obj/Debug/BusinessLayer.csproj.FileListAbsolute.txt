@@ -1,0 +1,27 @@
+F:\ProjectAfterUpdate\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+F:\ProjectAfterUpdate\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+F:\ProjectAfterUpdate\BusinessLayer\bin\Debug\BusinessLayer.dll
+F:\ProjectAfterUpdate\BusinessLayer\bin\Debug\BusinessLayer.pdb
+F:\ProjectAfterUpdate\BusinessLayer\bin\Debug\DataAccessLayer.dll
+F:\ProjectAfterUpdate\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+F:\ProjectAfterUpdate\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+F:\ProjectAfterUpdate\BusinessLayer\obj\Debug\BusinessLayer.dll
+F:\ProjectAfterUpdate\BusinessLayer\obj\Debug\BusinessLayer.pdb
+F:\My Solution\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+F:\My Solution\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+F:\My Solution\BusinessLayer\obj\Debug\BusinessLayer.dll
+F:\My Solution\BusinessLayer\obj\Debug\BusinessLayer.pdb
+F:\My Solution\BusinessLayer\bin\Debug\BusinessLayer.dll
+F:\My Solution\BusinessLayer\bin\Debug\BusinessLayer.pdb
+F:\My Solution\BusinessLayer\bin\Debug\DataAccessLayer.dll
+F:\My Solution\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+F:\My Solution\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\BusinessLayer\bin\Debug\BusinessLayer.dll
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\BusinessLayer\bin\Debug\BusinessLayer.pdb
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\BusinessLayer\bin\Debug\DataAccessLayer.dll
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\BusinessLayer\obj\Debug\BusinessLayer.dll
+F:\Programming\C#\Course19 (Full Project)\Full Project\My_Solution\BusinessLayer\obj\Debug\BusinessLayer.pdb
