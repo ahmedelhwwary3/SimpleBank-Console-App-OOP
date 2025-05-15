@@ -91,20 +91,8 @@ A clean, modular, and fully object-oriented C++ console application that simulat
 
 ## 📣 Author
 
-Developed with care and precision by [Your Name].  
+Developed with care and precision by [Ahmed Elhwwary].  
 Feel free to contribute, suggest features, or report bugs.
-
----
-
-## 📛 Suggested Project Name
-
-**SimpleBank OOP Console**  
-Other ideas:
-- `BankManager++`
-- `BankFlow`
-- `ConsoleBankPro`
-- `BankX (C++ Edition)`
-
 ---
 
 ## ✅ Future Enhancements (Optional)
@@ -113,3 +101,6 @@ Other ideas:
 - Enhance UI with ncurses (Linux) or WinAPI (Windows)
 - Encrypt stored passwords
 - Add export to CSV or JSON
+
+Telegram Channel For Projects:
+https://t.me/ahmedelhwwary3
